@@ -1,4 +1,4 @@
-# ic-tcc
+# Iniciação Científica e Trabalho de Conclusão de Curso
 
 ## Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilı́sticos
 
