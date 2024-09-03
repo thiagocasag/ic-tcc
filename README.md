@@ -10,3 +10,6 @@ Além disso, estudei um algoritmo para encontrar as modas da distribuição de p
 Este algoritmo foi implementado e testado com um conjunto de dados pequeno gerado artificialmente, permitindo verificar certas características específicas.
 O código implementado para este algoritmo pode ser encontrado em ModalEM.jl.
 
+O trabalho realizado foi sintetizado e explicado no arquivo em pdf presente neste repositório.
+
+
