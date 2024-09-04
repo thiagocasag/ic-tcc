@@ -1,6 +1,6 @@
 # Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilı́sticos
 
-## Iniciação Científica e Trabalho de Conclusão de Curso
+### Iniciação Científica e Trabalho de Conclusão de Curso
 
 Este repositório contém meu trabalho de estudo e implementação de estruturas de circuitos probabilísticos, com um foco em modelos gerativos baseados em grafos.
 Durante este estudo, explorei a estrutura desses circuitos e implementei o algoritmo _LearnSPN_, que constrói a estrutura de um circuito probabilístico através de divisões recursivas tanto das colunas quanto das linhas de um conjunto de dados.
